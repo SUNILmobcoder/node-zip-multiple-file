@@ -10,7 +10,7 @@
 
 1. Two routes
    1. "http://localhost:3000//" => you will see the message "Hello there"
-   2. "http://localhost:3000//zip" => It should download the zip file containing 2 imgs and 2 videos
+   2. "http://localhost:3000//zip" => It should download the zip file containing 2 imgs and 1 video
 2. Lib used
    1. express
    2. express-zip
