@@ -1,0 +1,30 @@
+{
+  "name": "zip-multiple-file",
+  "version": "1.0.0",
+  "description": "POC of zipping multiple file and download it via node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUNILmobcoder/node-zip-multiple-file.git"
+  },
+  "keywords": [
+    "zip",
+    "multiple",
+    "files",
+    "and",
+    "download"
+  ],
+  "author": "Sunil Kumar Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SUNILmobcoder/node-zip-multiple-file/issues"
+  },
+  "homepage": "https://github.com/SUNILmobcoder/node-zip-multiple-file#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-zip": "^3.0.0"
+  }
+}
